@@ -5,8 +5,6 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/pauloelf">
-    <img alt="Paulo-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/338224_AYX0Jdpu.png">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloelf&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true&count_private=true"/>
     
