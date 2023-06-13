@@ -6,9 +6,9 @@
 
 <div align="center">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloelf&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloelf&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true&count_private=true"/>
     
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloelf&layout=demo&hide_border=true&langs_count=7&theme=gotham"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloelf&hide_border=true&langs_count=7&theme=gotham"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauloelf&bg_color=0c1014&color=259076&line=122f2b&point=99d1ce&area=true&hide_border=true&area_color=17443d)](https://github.com/ashutosh00710/github-readme-activity-graph)
