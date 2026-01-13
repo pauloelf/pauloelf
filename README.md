@@ -1,13 +1,13 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Paulo%20Sérgio&fontAlign=50&fontAlignY=40&fontColor=fff&color=0:3b6156,50:0d4338,100:3b6156&desc=Front-end%20Developer%20Júnior%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlign=50&descAlignY=60&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Paulo%20Sérgio&fontAlign=50&fontAlignY=40&fontColor=fff&color=0:3b6156,50:0d4338,100:3b6156&desc=Front-end%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlign=50&descAlignY=60&animation=fadeIn"
   />
 </p>
 
 <h2 align="center">👋 Olá! Seja bem-vindo</h2>
 
 <p align="center">
-  Desenvolvedor <strong>Front-end Júnior</strong>, focado em criar experiências web<br/>
+  Desenvolvedor <strong>Front-end</strong>, focado em criar experiências web<br/>
   modernas, acessíveis e responsivas.
 </p>
 
