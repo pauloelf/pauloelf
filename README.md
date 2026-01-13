@@ -1,27 +1,62 @@
-## Paulo Sérgio - Desenvolvedor Front End
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Paulo%20Sérgio&fontAlign=50&fontAlignY=40&fontColor=fff&color=0:3b6156,50:0d4338,100:3b6156&desc=Front-end%20Developer%20Júnior%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlign=50&descAlignY=60&animation=fadeIn"
+  />
+</p>
 
-<div align='center'>
+<h2 align="center">👋 Olá! Seja bem-vindo</h2>
+
+<p align="center">
+  Desenvolvedor <strong>Front-end Júnior</strong>, focado em criar experiências web<br/>
+  modernas, acessíveis e responsivas.
+</p>
+
+<p align="center">
+  <a href="https://liftcode-paulodev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-262835?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
   <a href="https://www.linkedin.com/in/paulosergioelf/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href = "mailto:contato.paulofws@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:contato.paulofws@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-</div>
+</p>
 
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pauloelf&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloelf&layout=compact&langs_count=168&theme=gotham&card_width=400" height="140" alt="languages graph"  />
-</div>
+---
 
-#
+### 🚀 Sobre mim
 
-<div>
-  <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/javascript-20232a?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="TS" height="30" src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=007ACC">
-  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/html-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6">
-  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/tailwindcss-20232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC">
-</div>
+Sou desenvolvedor **Front-end**, apaixonado por tecnologia e em constante aprendizado, com foco em **React**, **Next.js** e **TypeScript**.
+
+---
+
+### 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,nodejs,tailwind,html,css,git,figma,express,prisma,sqlite&theme=dark" />
+</p>
+
+---
+
+<details>
+  <summary><strong>📊 GitHub Stats</strong></summary>
+  <br/>
+  <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pauloelf&show_icons=true&theme=default&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloelf&layout=compact&theme=default&hide_border=true"/>
+  </p>
+</details>
+
+---
+
+### ✨ Em desenvolvimento
+
+- 📚 Aprendizado contínuo
+- ⚡ Boas práticas
+- 🎯 Foco em evolução profissional
+- 🤝 Trabalho em equipe
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:3b6156,50:0d4338,100:3b6156&section=footer"/>
+</p>
